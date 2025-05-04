@@ -1,4 +1,7 @@
-# 🌐 Simple Tutedude Webpage – HTML Project
+
+![Screenshot 2025-05-04 235700](https://github.com/user-attachments/assets/1f1b7c0a-4daa-4548-9e07-fdf8a1a9a678)
+
+# 🌐 Simple Tutedude Webpage – HTML Project!
 
 Welcome to the **Tutedude Webpage Project** – a beginner-friendly HTML-based website showcasing an educational platform, its offerings, pricing, and contact details in a clean and engaging layout.
 
