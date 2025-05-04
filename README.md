@@ -49,7 +49,4 @@ Here’s a quick look at what the page contains:
 - Simple **user registration form**  
 - A clean and centered **footer section**  
 
----
-
-## 📂 File Structure
 
